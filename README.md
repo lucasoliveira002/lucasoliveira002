@@ -1,5 +1,4 @@
 ### Hi there👋
-- 🔭 Atualmente estou estudando Desenvolvimento de sistemas no IFSP
-- 👯 Espero trabalhar na área futuramente
+- 🔭 I'm currently studying Systems Development at IFSP
 - 📫 Instagram: @lucas_oliveirashi
 - ⚡ Gosto do Pica-Pau e VAI CORINTHIANS
