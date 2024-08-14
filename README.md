@@ -10,7 +10,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -30,6 +30,7 @@
  <a href="https://wa.me/5511988013182" target="_blank"><img height="50" width="50" src="redes-sociais/whatsapp.png" target="_blank"></a> 
   <a href = "https://x.com/""><img height="50" width="50" src="redes-sociais/twitter.png" target="_blank"></a>
   <a href="https://br.linkedin.com/" target="_blank"><img height="50" width="50" src="redes-sociais/linkedin.png" target="_blank"></a>
+  <- Redes Sociais 👀 
 </div>
 
 ![snake gif](https://github.com/lucasoliveira002/lucasoliveira002/blob/output/github-contribution-grid-snake.gif)
