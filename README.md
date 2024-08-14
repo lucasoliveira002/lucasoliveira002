@@ -24,12 +24,12 @@
 ##
 
 <div>
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lucas_olv022/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href=" " target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "lucas.nigol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img height="50" width="50" src="redes-sociais/youtube.png" target="_blank"></a>
+  <a href="https://www.instagram.com/lucas_olv022/" target="_blank"><img height="50" width="50" src="redes-sociais/instagram.png" target="_blank"></a>
+   <a href=" " target="_blank"><img height="50" width="50" src="redes-sociais/facebook.png" target="_blank"></a>
+ <a href=" " target="_blank"><img height="50" width="50" src="redes-sociais/whatsapp.png" target="_blank"></a> 
+  <a href = "lucas.nigol@gmail.com"><img height="50" width="50" src="redes-sociais/gmail.png" target="_blank"></a>
+  <a href=" " target="_blank"><img height="50" width="50" src="redes-sociais/linkedin.png" target="_blank"></a>
 </div>
 
 ![snake gif](https://github.com/lucasoliveira002/lucasoliveira002/blob/output/github-contribution-grid-snake.gif)
