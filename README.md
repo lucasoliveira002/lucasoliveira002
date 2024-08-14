@@ -24,12 +24,12 @@
 ##
 
 <div>
-  <a href=" " target="_blank"><img height="50" width="50" src="redes-sociais/youtube.png" target="_blank"></a>
+  <a href="https://www.youtube.com/" target="_blank"><img height="50" width="50" src="redes-sociais/youtube.png" target="_blank"></a>
   <a href="https://www.instagram.com/lucas_olv022/" target="_blank"><img height="50" width="50" src="redes-sociais/instagram.png" target="_blank"></a>
-   <a href=" " target="_blank"><img height="50" width="50" src="redes-sociais/facebook.png" target="_blank"></a>
+   <a href="https://www.facebook.com/" target="_blank"><img height="50" width="50" src="redes-sociais/facebook.png" target="_blank"></a>
  <a href="https://wa.me/5511988013182" target="_blank"><img height="50" width="50" src="redes-sociais/whatsapp.png" target="_blank"></a> 
-  <a href = "mailto:lucas.nigol@gmail.com""><img height="50" width="50" src="redes-sociais/gmail.png" target="_blank"></a>
-  <a href=" " target="_blank"><img height="50" width="50" src="redes-sociais/linkedin.png" target="_blank"></a>
+  <a href = "https://x.com/""><img height="50" width="50" src="redes-sociais/twitter.png" target="_blank"></a>
+  <a href="https://br.linkedin.com/" target="_blank"><img height="50" width="50" src="redes-sociais/linkedin.png" target="_blank"></a>
 </div>
 
 ![snake gif](https://github.com/lucasoliveira002/lucasoliveira002/blob/output/github-contribution-grid-snake.gif)
