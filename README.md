@@ -1,4 +1,12 @@
 ### Hi there👋
-- 🔭 I'm currently studying Systems Development at IFSP
-- 📫 Instagram: @lucas_olv022
-- ⚡ Gosto do Pica-Pau e VAI CORINTHIANS
+<div style="display: flex; gap: 10px;">
+  <div>
+    <img src="https://github.com/user-attachments/assets/c6b763c1-ce9a-488e-8840-06e7f3544fcd" width="200px" />
+  </div>
+  <div>
+    <p>- 🔭 I'm currently studying Systems Development at IFSP</p>
+    <p>- 📫 Instagram: @lucas_olv022</p>
+    <p>- ⚡ VAI CORINTHIANS!!!</p>
+  </div>
+</div
+
