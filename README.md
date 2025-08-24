@@ -1,36 +1,55 @@
-### Hi there👋
+# 🧑‍💻 Lucas Shimoda
 
-<div align="center"">
-  <div>
-    <p>- 🔭 I'm currently studying Systems Development at IFSP</p>
-    <p>- 📫 Instagram: @lucas_olv022</p>
-    <p>- ⚡ VAI CORINTHIANS!!!</p>
-  </div> 
-</div>
+## `Estudante em Desenvolvimento de Sitemas` ##
 
-##
+Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthians e faço curso técnico integrado ao médio no IFSP em Desenvolvimento de Sistemas, na teoria eu já sei programar, mas acredito que tem muito que não sei e que posso melhorar.
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="corinthians" width="200px" src="https://github.com/user-attachments/assets/c6b763c1-ce9a-488e-8840-06e7f3544fcd">
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![email][18]][18]
+[![location][19]][19]
 
-##
+[![total contributions][26]][26]
+[![code size][6]][6]
+[![github streak][25]][25]
 
-<div>
-  <a href="https://www.youtube.com/" target="_blank"><img height="50" width="50" src="redes-sociais/youtube.png" target="_blank"></a>
-  <a href="https://www.instagram.com/lucas_olv022/" target="_blank"><img height="50" width="50" src="redes-sociais/instagram.png" target="_blank"></a>
-   <a href="https://www.facebook.com/" target="_blank"><img height="50" width="50" src="redes-sociais/facebook.png" target="_blank"></a>
- <a href="https://wa.me/5511988013182" target="_blank"><img height="50" width="50" src="redes-sociais/whatsapp.png" target="_blank"></a> 
-  <a href = "https://x.com/""><img height="50" width="50" src="redes-sociais/twitter.png" target="_blank"></a>
-  <a href="https://br.linkedin.com/" target="_blank"><img height="50" width="50" src="redes-sociais/linkedin.png" target="_blank"></a>
-  <- Redes Sociais 👀 
-</div>
+[5]: https://custom-icon-badges.demolab.com/github/last-commit/ususss/custom-icon-badges?logo=history&logoColor=white
+[6]: https://custom-icon-badges.demolab.com/github/languages/code-size/lucasoliveira002/custom-icon-badges?logo=file-code&logoColor=white
+[18]: https://custom-icon-badges.demolab.com/badge/-lucas.nigol@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white
+[19]: https://custom-icon-badges.demolab.com/badge/Brazil-SP-darkblue?style=for-the-badge&logo=location&logoColor=white
+[25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dlucasoliveira002%26type%3Djson
+[26]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dlucasoliveira002%26type%3Djson
 
-![snake gif](https://github.com/lucasoliveira002/lucasoliveira002/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+### 👾 Linguagens e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+### 🎖️ Estatistícas
+
+<p>
+    <img
+        align="left"
+        alt="github stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=lucasoliveira002&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+    <img
+        align="left"
+        alt="Github stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira002&theme=tokyonight&layout=compact&langs_count=9"
+    />
+
+</p>
