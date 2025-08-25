@@ -4,7 +4,7 @@
 ### `Inglês Avançado (foco em leitura e escrita)` ###
 
 <p align="center">
-  <img src="https://www.espn.com.br/futebol/time/_/id/874/corinthians" width="80"/>
+  <img src="corinthians.png" width="80"/>
 </p>
 
 
