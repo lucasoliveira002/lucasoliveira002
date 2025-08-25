@@ -4,8 +4,8 @@
 
 Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthians e faço curso técnico integrado ao médio no IFSP em Desenvolvimento de Sistemas, na teoria eu já sei programar, mas acredito que tem muito que não sei e que posso melhorar.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_oliveiras200/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-shimoda-9162312b2/)
 [![email][18]][18]
 [![location][19]][19]
 
