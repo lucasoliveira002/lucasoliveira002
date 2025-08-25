@@ -60,7 +60,7 @@ Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthian
 
 <p align="center">
   <img src="imagens/838b1a8d99fc3650f6b8101d27490b9f.gif" width="500"/>
-  <img src="imagens/bandeira-corinthians" width="500"/>
+  <img src="imagens/bandeira-corinthians.gif" width="500"/>
 </p>
 
 
