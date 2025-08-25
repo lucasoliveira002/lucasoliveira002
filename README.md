@@ -1,8 +1,7 @@
 # 🧑‍💻 Lucas Shimoda
 
-## `Estudante em Desenvolvimento de Sitemas` ##
-<br>
-### Inglês Avançado (ênfase em leitura e escrita) ###
+<h2>Estudante</h2>
+<h3 style="margin-top:-15px;">Inglês Avançado</h3>
 
 Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthians e faço curso técnico integrado ao médio no IFSP em Desenvolvimento de Sistemas, na teoria eu já sei programar, mas acredito que tem muito que não sei e que posso melhorar.
 
