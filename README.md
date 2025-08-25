@@ -3,6 +3,11 @@
 ## `Estudante em Desenvolvimento de Sitemas` ##
 ### `Inglês Avançado (foco em leitura e escrita)` ###
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Corinthians_logo.svg" width="80"/>
+</p>
+
+
 Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthians e faço curso técnico integrado ao médio no IFSP em Desenvolvimento de Sistemas, na teoria eu já sei programar, mas acredito que tem muito que não sei e que posso melhorar.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_oliveiras200/)
