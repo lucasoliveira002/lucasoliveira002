@@ -36,6 +36,11 @@ Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthian
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
+### 🔍 Ferramentas de OSINT e Segurança
+![Sherlock](https://img.shields.io/badge/-Sherlock-000?&logo=github&logoColor=white)
+![Holehe](https://img.shields.io/badge/-Holehe-000?&logo=github&logoColor=white)
+
+
 
 ### 🎖️ Estatistícas
 
