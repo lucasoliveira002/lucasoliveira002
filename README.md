@@ -4,7 +4,7 @@
 ### `Inglês Avançado (foco em leitura e escrita)` ###
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/0/01/Corinthians_logo.svg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodetimes.com%2Ftimes%2Fcorinthians%2Flogo-do-corinthians-1024.png&f=1&nofb=1&ipt=cb40a4d8b43b870cacc7e0974ff0b3c18b8a996f928cde57d4f5a55c7348bf4a)" width="80"/>
+  <img src="https://www.espn.com.br/futebol/time/_/id/874/corinthians" width="80"/>
 </p>
 
 
