@@ -1,3 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D6EFD&size=35&center=true&vCenter=true&width=1000&lines=Opa!;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
+
 # 🧑‍💻 Lucas Shimoda
 
 ## `Estudante em Desenvolvimento de Sitemas` ##
@@ -58,6 +63,15 @@ Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthian
     />
 </div>
 
+---
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasoliveira002&left_color=darkblue&right_color=blue&left_text=Visualiza%C3%A7%C3%B5es%20no%20perfil:" width="300" />
+</div>
+
+<br>
+
 ### Dito isso Vai Corinthians!
 
 <p align="center">
@@ -66,3 +80,5 @@ Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthian
 </p>
 
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=120&section=footer"/>
