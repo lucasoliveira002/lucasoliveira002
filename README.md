@@ -39,7 +39,6 @@ Oi, eu sou o Lucas! Estou cursando Desenvolvimento de Sistemas integrado com o e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
 
@@ -64,7 +63,6 @@ Oi, eu sou o Lucas! Estou cursando Desenvolvimento de Sistemas integrado com o e
 
 ---
 
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasoliveira002&left_color=darkblue&right_color=blue&left_text=Visualiza%C3%A7%C3%B5es%20no%20perfil:" width="300" />
 </div>
@@ -77,7 +75,5 @@ Oi, eu sou o Lucas! Estou cursando Desenvolvimento de Sistemas integrado com o e
   <img src="imagens/838b1a8d99fc3650f6b8101d27490b9f.gif" width="300"/>
   <img src="imagens/bandeira-corinthians.gif" width="200"/>
 </p>
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=120&section=footer"/>
