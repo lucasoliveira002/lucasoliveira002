@@ -1,19 +1,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=120&section=header"/>
 
+<h1 align="center">🧑‍💻 Lucas Shimoda</h1> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D6EFD&size=35&center=true&vCenter=true&width=1000&lines=Opa!;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
+## `Estudante em Desenvolvimento de Sitemas`
+### `Inglês Intermediário (foco em leitura e escrita)`
 
-# 🧑‍💻 Lucas Shimoda
+Oi, eu sou o Lucas! Estou cursando Desenvolvimento de Sistemas integrado com o ensino médio no IFSP e uso este espaço para compartilhar meus projetos e aprender cada vez mais sobre programação. Busco aprender mais e evoluir como desenvolvedor.
 
-## `Estudante em Desenvolvimento de Sitemas` ##
-### `Inglês Básico(foco em leitura e escrita)` ###
+<p align="left">
 
-Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthians e faço curso técnico integrado ao médio no IFSP em Desenvolvimento de Sistemas, na teoria eu já sei programar, mas acredito que tem muito que não sei e que posso melhorar.
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_oliveiras200/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-shimoda-9162312b2/)
+  [![email][18]][18]
+  [![location][19]][19]
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_oliveiras200/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-shimoda-9162312b2/)
-[![email][18]][18]
-[![location][19]][19]
+</p>
 
 [![total contributions][26]][26]
 [![code size][6]][6]
@@ -39,12 +40,10 @@ Sou o Lucas, tenho 17 anos, sou um morador de São Paulo, torcedor do Corinthian
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
 
-### 🔍 Ferramentas de OSINT e Segurança
-![Sherlock](https://img.shields.io/badge/-Sherlock-000?&logo=github&logoColor=white)
-![Holehe](https://img.shields.io/badge/-Holehe-000?&logo=github&logoColor=white)
-
+---
 
 ### 🎖️ Estatísticas
 
