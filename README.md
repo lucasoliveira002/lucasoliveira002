@@ -3,7 +3,7 @@
 <h1 align="center">🧑‍💻 Lucas Shimoda</h1> 
 
 ## `Estudante em Desenvolvimento de Sitemas`
-### `Inglês Intermediário (foco em leitura e escrita)`
+### `Inglês Básico`
 
 Oi, eu sou o Lucas! Estou cursando Desenvolvimento de Sistemas integrado com o ensino médio no IFSP e uso este espaço para compartilhar meus projetos e aprender cada vez mais sobre programação. Busco aprender mais e evoluir como desenvolvedor.
 
@@ -81,4 +81,5 @@ Oi, eu sou o Lucas! Estou cursando Desenvolvimento de Sistemas integrado com o e
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=120&section=footer"/>
+
 
